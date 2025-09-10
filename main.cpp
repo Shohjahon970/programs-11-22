@@ -48,14 +48,28 @@ using namespace std;
 
 
 //Problem 15
-// int main() {
-//  char a='A';
-//  cout<<
-// }
+//int main() {
+// char a='A';
+// char b=a+7;
+// cout<<b;
+// char c=a+4;
+ // cout<<c;
+ // char d=a+11;
+  //cout<<d;
+ // char e=a+11;
+  //cout<<e;
+ // char f=a+14;
+ // cout<<f;
+ //return 0;
+//}
+
+
 // //problem 16
 // int main() {
 //  float x=17, y=1;
-//  float z=(x+(++x))/
+//  float z=(x+(++x))/((y+y+y)*(y+y));
+//  cout<<"z="<<z<<endl;
+//  return 0;
 // }
 
 
@@ -102,3 +116,25 @@ using namespace std;
 // }
 
 //Problem 21
+//int main() {
+// int x,y;
+//cout<<"Enter two integer numbers: ";
+//cin>>x>>y;
+//cout<<(((x+y)>30) && ((x*y)>30))<<endl;
+//cout<<(((x+y-10)>30) ||((x*(y-10))>30))<<endl;
+//cout<<((x>30) ||(y>30))<<endl;
+//return 0;
+//}
+
+
+//Problem 22
+//int main(){
+//float x;
+//cout<<"Enter Sardor's height in cm: ";
+//cin>>x;
+// float y;
+// cout<<"Enter Mike's height in ft: ";
+//  cin>>y;
+//  cout<<(y*30.48 > x)<<endl;
+//  return 0;
+//}
