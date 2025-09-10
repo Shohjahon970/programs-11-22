@@ -102,10 +102,3 @@ using namespace std;
 // }
 
 //Problem 21
-// int main() {
-//  int a,b;
-//  cout<<"Enter two numbers: ";
-//  cin>>a>>b;
-//  cout<<(((a+b)>30) && ((a*b)>30));
-//  cout
-// }
